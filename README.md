@@ -84,9 +84,13 @@ src/main/webapp
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard1.png)
+![Dashboard](screenshots/dashboard2.png)
+![Dashboard](screenshots/dashboard4.png)
+
 
 ### Tasks Page
 ![Tasks](screenshots/tasks-page1.png)
+![Dashboard](screenshots/dashboard2.png)
 
 ### Profile Page
 ![Profile](screenshots/profile-page.png)
