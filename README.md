@@ -83,10 +83,10 @@ src/main/webapp
 ![Register](screenshots/register-page.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard1.png)
 
 ### Tasks Page
-![Tasks](screenshots/tasks-page.png)
+![Tasks](screenshots/tasks-page1.png)
 
 ### Profile Page
 ![Profile](screenshots/profile-page.png)
